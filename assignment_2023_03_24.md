@@ -44,14 +44,14 @@ b.here CD-->F means a part of candidate key uniqly identifying Non-prime attribu
 
 **4.Write the advantages and disadvantages of normalization**  
 **Advantages**  
-*Reduce data redundancy  
-*Reduce update anomalies  
-*Simplify data base design   
-*Improve data consistency  
+* Reduce data redundancy  
+* Reduce update anomalies  
+* Simplify data base design   
+* Improve data consistency  
 **Disadvantages**  
-*performence will reduse  
-*Making quarys become defficult  
-*It is not that much sutable for evry data  
+* performence will reduse  
+* Making quarys become defficult  
+* It is not that much sutable for evry data  
 
 
 **5.Determine the decomposition.**  
